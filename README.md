@@ -54,6 +54,7 @@ ilk önce karılımıza bina bilgileri bölümü çıkar burada bina adresi ve k
 
 ![kodcıktısı](https://github.com/SumeyraSumer/NesneyeYonelikProgramlamaKisaSinav2/assets/126922628/e608d7e6-a818-459c-825d-31027ead6182)
 
+https://github.com/SumeyraSumer/NesneyeYonelikProgramlamaKisaSinav2/assets/126922628/679b80c9-54ca-4ea2-87bb-7517e4246dd2
 
 
 
